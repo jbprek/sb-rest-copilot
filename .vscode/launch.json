@@ -6,7 +6,7 @@
         "name": "Launch Spring Boot App",
         "request": "launch",
         "mainClass": "com.example.demo.PersonsApplication",
-        "projectName": "demo",        
+        "projectName": "sb-rest-copilot",        
         "args": "",
         "envFile": "${workspaceFolder}/.env"
     }

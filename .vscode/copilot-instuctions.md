@@ -8,7 +8,7 @@ This is a Spring Boot application written in Java. It follows a layered architec
 - Build a RESTful API for Person CRUD operations
 - Person entity consists of first,last attributed
 - Persistence is implemented using a map
-- Use DTOs for data transfer between layers.
+- Swagger OpenAPI
 - Follow best practices for exception handling and validation.
 
 # Implementation
