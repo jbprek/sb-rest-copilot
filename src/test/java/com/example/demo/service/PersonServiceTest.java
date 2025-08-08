@@ -1,8 +1,10 @@
 package com.example.demo.service;
 
-import com.example.demo.controller.Person;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
+
+import com.example.model.Person;
+
 import java.util.Optional;
 import static org.junit.jupiter.api.Assertions.*;
 

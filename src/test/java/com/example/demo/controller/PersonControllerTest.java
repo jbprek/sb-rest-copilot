@@ -1,7 +1,8 @@
 package com.example.demo.controller;
 
-import com.example.demo.controller.Person;
 import com.example.demo.service.PersonService;
+import com.example.model.Person;
+
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
