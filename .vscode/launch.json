@@ -1,0 +1,15 @@
+{
+    
+"configurations": [
+    {
+        "type": "java",
+        "name": "Launch Spring Boot App",
+        "request": "launch",
+        "mainClass": "com.example.demo.PersonsApplication",
+        "projectName": "demo",        
+        "args": "",
+        "envFile": "${workspaceFolder}/.env"
+    }
+]
+
+}
